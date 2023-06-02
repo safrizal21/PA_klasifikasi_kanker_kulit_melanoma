@@ -1,10 +1,10 @@
 # PA_klasifikasi_kanker_kulit_melanoma
 
 ## Deskripsi
-Proyek ini adalah tentang klasifikasi kanker kulit melanoma menggunakan data citra kulit. Aplikasi ini gunakan untuk memprediksi apakah citra kulit mengindikasikan apakah termasuk kanker kulit ganas atau jinak
+Proyek ini adalah tentang klasifikasi kanker kulit melanoma menggunakan data citra kulit. Aplikasi ini gunakan untuk memprediksi apakah citra kulit mengindikasikan apakah termasuk kanker kulit benign atau malignant
 
 ## Dataset Yang Digunakan
-Dataset yang digunakan dalam proyek ini adalah [Melanoma Skin Cancer Dataset](https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images). Dataset ini berisi 10.000 citra kulit dengan label melanoma atau non-melanoma.
+Dataset yang digunakan dalam proyek ini adalah [Melanoma Skin Cancer Dataset](https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images). Dataset ini berisi 10.000 citra kulit dengan label benign dan malignant.
 
 ## Menggunakan Library:
 - Flask
@@ -36,8 +36,3 @@ Dataset yang digunakan dalam proyek ini adalah [Melanoma Skin Cancer Dataset](ht
 4. Jalankan Aplikasi:
    ```shell
    python app.py
- 
-   
-
-
-
