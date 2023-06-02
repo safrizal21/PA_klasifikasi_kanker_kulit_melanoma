@@ -28,7 +28,6 @@ Dataset yang digunakan dalam proyek ini adalah [Melanoma Skin Cancer Dataset](ht
    ```shell
    conda create melanoma
 4.  Aktifkan Virtual Environment:
-
    ```shell
    activate melanoma
 5.  Instal dependensi yang diperlukan menggunakan pip:
