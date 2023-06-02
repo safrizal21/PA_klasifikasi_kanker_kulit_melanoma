@@ -1,0 +1,10 @@
+Flask
+Werkzeug
+joblib
+pandas
+numpy
+matplotlib
+scikit-learn
+tensorflow
+Pillow
+ssl
