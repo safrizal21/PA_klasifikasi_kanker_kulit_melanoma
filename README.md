@@ -23,13 +23,13 @@ Dataset yang digunakan dalam proyek ini adalah [Melanoma Skin Cancer Dataset](ht
    git clone https://github.com/safrizal21/PA_klasifikasi_kanker_kulit_melanoma.git
 2. Masuk ke direktori proyek:
    ```shell
-  cd PA_klasifikasi_kanker_kulit_melanoma/app
+   cd PA_klasifikasi_kanker_kulit_melanoma/app
 3. Buat Virtual Environment:
    ```shell
-  conda create melanoma
+   conda create melanoma
 4.  Aktifkan Virtual Environment:
    ```shell
-  activate melanoma
+   activate melanoma
 5. Instal dependensi yang diperlukan menggunakan pip:
    ```shell
    pip install -r requirements.txt
